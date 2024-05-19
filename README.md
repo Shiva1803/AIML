@@ -1,5 +1,5 @@
 # AIML Syllabus
-A breif overview on tacking AIML, its curiculum and as well as the prerequisites required for it. Will be updates as i keep progressing in higher semesters.
+A breif overview on tacking AIML, its curriculum and as well as the prerequisites required for it. Will be updated as i keep progressing through higher semesters.
 
 Following are the subjects taught in 3rd sem in AIML:
 <table>
