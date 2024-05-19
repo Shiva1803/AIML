@@ -23,7 +23,7 @@ Following are the subjects taught in 3rd sem in AIML:
       <td>4</td>
     </tr>
     <tr>
-      <td>RDBMS</td>
+      <td><a href = "https://cloud.google.com/learn/what-is-a-relational-database#:~:text=A%20relational%20database%20management%20system,SQL%20Server%2C%20and%20Oracle%20Database.">RDBMS</a></td>
       <td>4</td>
     </tr>
     <tr>
@@ -31,7 +31,7 @@ Following are the subjects taught in 3rd sem in AIML:
       <td>4</td>
     </tr>
     <tr>
-      <td>OOPS in Java/Python</td>
+      <td>OOPS in Java/Python(Flexi core)</td>
       <td>4</td>
     </tr>
     <tr>
