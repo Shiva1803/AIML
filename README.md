@@ -1,5 +1,5 @@
-# AIML
-A breif overview on tacking AIML, its curiculum and as well as the prerequisites required for it. Will be updates as i keep progressing in higher semesters
+# AIML Syllabus
+A breif overview on tacking AIML, its curiculum and as well as the prerequisites required for it. Will be updates as i keep progressing in higher semesters.
 
 Following are the subjects taught in 3rd sem in AIML:
 <table>
@@ -49,6 +49,11 @@ Following are the subjects taught in 3rd sem in AIML:
   </tbody>
 </table>
 <br>
+
+<em>OPEN ELECTIVES FOR SEM 3:</em>
+<P>No open electives</P>
+<br>
+
 <em>OPEN ELECTIVES FOR SEM 4</EM>
 <ul>
   <li> OE1 AIM0001: <a href="https://roadmap.sh/python">Python Programming</a></li>
