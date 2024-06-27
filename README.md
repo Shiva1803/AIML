@@ -1,7 +1,7 @@
 # AIML Syllabus
 A breif overview on tacking AIML, its curriculum and as well as the prerequisites required for it. Will be updated as i keep progressing through higher semesters.
 
-Following are the subjects taught in 3rd sem in AIML:
+<h2>Following are the subjects taught in 3rd sem in AIML:</h2>
 <table>
   <thead>
     <tr>
@@ -31,11 +31,11 @@ Following are the subjects taught in 3rd sem in AIML:
       <td>4</td>
     </tr>
     <tr>
-      <td>OOPS in Java/Python(Flexi core)</td>
+      <td>OOPS in Python </td>
       <td>4</td>
     </tr>
     <tr>
-      <td>DSA Lab</td>
+      <td>DSA Lab using C++</td>
       <td>1</td>
     </tr>
     <tr>
@@ -45,6 +45,10 @@ Following are the subjects taught in 3rd sem in AIML:
     <tr>
       <td>Project Based Learning</td>
       <td>1</td>
+    </tr>
+    <tr>
+      <td> NPTEL course on DSA using <a href = "https://onlinecourses.nptel.ac.in/noc24_cs78/preview">Python</a>/<a href = "https://onlinecourses.nptel.ac.in/noc24_cs96/preview">Java</a></td>
+      <td>Part of CWS</td>
     </tr>
   </tbody>
 </table>
